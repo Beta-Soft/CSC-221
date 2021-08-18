@@ -1,1 +1,3 @@
 # CSC-221
+CTS221 FA21
+CSC 221 Rebecca Garcia
